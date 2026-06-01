@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/raw/*
+logs/parsed/*
+logs/faults/*
+
+# Traces
+traces/*
+
+# VSCode
+.vscode/
+
+# PlatformIO
+.pio/
+
+# Build Artifacts
+build/
+dist/
+
+# OS Files
+Thumbs.db
+.DS_Store
