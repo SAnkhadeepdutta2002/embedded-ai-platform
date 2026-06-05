@@ -4,11 +4,17 @@ __pycache__/
 
 # Logs
 logs/raw/*
+!logs/raw/.gitkeep
+
 logs/parsed/*
+!logs/parsed/.gitkeep
+
 logs/faults/*
+!logs/faults/.gitkeep
 
 # Traces
 traces/*
+!traces/.gitkeep
 
 # VSCode
 .vscode/
